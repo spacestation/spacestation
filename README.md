@@ -23,6 +23,10 @@ Scale our resources as you need. We can bill on an hourly or project bases.
 - We help you scope te project for free and offer simple billing.
 - Walk-away anytime. you own everything we build.
 
+## Who are we?
+
+Head over to [our pages](spacestation.github.io) and have a read!
+
 ## For Hire
 
 - Go Developers
@@ -31,6 +35,7 @@ Scale our resources as you need. We can bill on an hourly or project bases.
 - React Developers
 - Data Developers
 - Web developers
+- Database developers
 
 ## Let's talk
 
