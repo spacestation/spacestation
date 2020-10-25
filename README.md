@@ -20,6 +20,8 @@ Scale our resources as you need. We can bill on an hourly or project bases.
 
 - Hire in Canada.
 - We're entrepreneurs first, we understand crossing the finish line is #1.
+- We're highly *motivated*. Our developers are locked to a single project until
+  it's fully completed.
 - We help you scope te project for free and offer simple billing.
 - Walk-away anytime. you own everything we build.
 
