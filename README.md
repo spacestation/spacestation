@@ -36,7 +36,8 @@ Head over to [our pages](spacestation.github.io) and have a read!
 - Python Developers
 - React Developers
 - Data Developers
-- Web developers
+- Web Developers
+- Shopify Store Developers
 - Database developers
 
 ## Let's talk
