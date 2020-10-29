@@ -12,7 +12,7 @@ Scale our resources as you need. We can bill on an hourly or project bases.
 
 ## Who're our clients?
 
-- _Well funded_ companies with a big idea. They understand the value-add of a specialized team vs. a generic tech-for-hire.
+- _Well funded_ companies with a big idea. They understand the value-add of a specialized team vs. generic tech-for-hire.
 - Businesses solving _real problems_. They have a pressing problem and need team to bring the idea to life.
 - You drive the product, we _make it happen_.
 
